@@ -1,0 +1,7 @@
+GET https://www.metaweather.com/api/location
+###
+
+
+get https://goweather.herokuapp.com/weather/{england}
+
+
